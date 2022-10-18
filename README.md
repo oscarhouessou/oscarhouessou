@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oscar Joël HOUESSOU</h1>
 <h3 align="center">A passionate about data science/ data analyst from Benin </h3>
+I have an engineering degree in Mathematics and Modeling from the National University of Science Technology, 
+Engineering and Mathematics Abomey.
+ Very early in my training I discovered data science, this exciting profession and I quickly got hooked.
+I love telling stories from data, translating them into valuable and understandable insights. 
+My goal is to help companies make the right decisions, data-driven decisions.
+ I've had experience through freelance work.I have experience with machine learning, 
+supervised and unsupervised algorithms, and use data visualization techniques to present results.
 
 - 🔭 I’m currently working on **data science project**
 
