@@ -30,4 +30,4 @@ I’m passionate about using **Machine Learning**, **Data Engineering**, and **A
 📫 **Let's connect:**  
 - [LinkedIn](https://www.linkedin.com/in/oscar-houessou)  
 - [GitHub](https://github.com/oscarhouessou0)  
-- ✉️ oscar.houessou@gozem.co
+- ✉️ oscarhouessou0@gmail.com
