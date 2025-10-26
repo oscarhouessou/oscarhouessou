@@ -28,6 +28,6 @@ I’m passionate about using **Machine Learning**, **Data Engineering**, and **A
 ---
 
 📫 **Let's connect:**  
-- [LinkedIn](https://www.linkedin.com/in/oscar-houessou)  
-- [GitHub](https://github.com/oscarhouessou0)  
+- [LinkedIn](https://www.linkedin.com/in/oscarhouessou)  
+- [GitHub](https://github.com/oscarhouessou)  
 - ✉️ oscarhouessou0@gmail.com
